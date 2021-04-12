@@ -33,6 +33,7 @@
 - 無料講座
 - SONY [Neural Network Libraries](https://www.youtube.com/channel/UCOELxR-yS2EbjBxQ0hx4yBw): AI論文解説YouTubeチャンネル
 
+
 ---
 **AIのプログラムコード** 
 
@@ -40,6 +41,13 @@
     - [AI](https://qiita.com/tags/ai)
     - [深層学習](https://qiita.com/tags/%e6%b7%b1%e5%b1%a4%e5%ad%a6%e7%bf%92)
     - [Deep Learning](https://qiita.com/tags/deeplearning)
-- AXROSS [プログラムレシピ](https://axross-recipe.com/)
+- AXROSS [プログラムレシピ](https://axross-recipe.com/recipes)
+    - []
+---
+**AIの著作権など法律関係**
+- 日本弁理士会月刊パテント 久我貴洋著 [AI創作物の著作権の保護](https://system.jpaa.or.jp/patent/viewPdf/3306) 2019/4/26
+- 文化庁 [著作権法の一部を改正する法律の概要　説明資料](https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/bunkakai/51/pdf/r1406118_08.pdf) 2018/6/8
+- ABEJA [機械学習エンジニア弁護士が解説するAIと権利の話](https://qiita.com/kp_shiba/items/ac6e0987ed826877899f) 2021/1/17
+- 骨董通り法律事務所 出井甫著 [2020年、改めてロボット・AI社会の知的財産制度を考える](https://www.kottolaw.com/column/200228.html) 2020/2/28
 
 ---
