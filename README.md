@@ -30,7 +30,7 @@
 
 **データサイエンス・AIのオンライン講座/学習サイト**
 
-- 無料講座
+- 日本ディープラーニング協会 AI講座 [AI for Everyone](https://www.jdla.org/promotion/)　2021/5/6～　受講料無料, 6時間, Andrew Ng博士率いるDeepLearning.AIが提供する非エンジニア向けオンラインAI講座がベース。東大松尾博士が監修。
 - SONY [Neural Network Libraries](https://www.youtube.com/channel/UCOELxR-yS2EbjBxQ0hx4yBw): AI論文解説YouTubeチャンネル
 
 
@@ -41,8 +41,8 @@
     - [AI](https://qiita.com/tags/ai)
     - [深層学習](https://qiita.com/tags/%e6%b7%b1%e5%b1%a4%e5%ad%a6%e7%bf%92)
     - [Deep Learning](https://qiita.com/tags/deeplearning)
-- AXROSS [プログラムレシピ](https://axross-recipe.com/recipes)
-    - []
+- AXROSS 
+    - [プログラムレシピ](https://axross-recipe.com/recipes)
 ---
 **AIの著作権など法律関係**
 - 日本弁理士会月刊パテント 久我貴洋著 [AI創作物の著作権の保護](https://system.jpaa.or.jp/patent/viewPdf/3306) 2019/4/26
