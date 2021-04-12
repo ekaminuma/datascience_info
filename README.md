@@ -30,12 +30,20 @@
 
 **データサイエンス・AIのオンライン講座/学習サイト**
 
-- 日本ディープラーニング協会 AI講座 [AI for Everyone](https://www.jdla.org/promotion/)　2021/5/6～　受講料無料, 6時間, Andrew Ng博士率いるDeepLearning.AIが提供する非エンジニア向けオンラインAI講座がベース。東大松尾博士が監修。
-- SONY [Neural Network Libraries](https://www.youtube.com/channel/UCOELxR-yS2EbjBxQ0hx4yBw): AI論文解説YouTubeチャンネル
+- 日本ディープラーニング協会 AI講座 [「AI for Everyone」](https://www.jdla.org/promotion/)　
+    - 2021/5/6～　受講料無料, 6時間
+    - Andrew Ng博士率いるDeepLearning.AIが提供するAI講座がベース。東大松尾博士が監修。
 
 
 ---
-**AIのプログラムコード** 
+**AI論文フォロー**
+- [Browse State-of-the-Art](https://paperswithcode.com/sota)
+- [arxivTimes Indicator](https://arxivtimes.herokuapp.com/)
+- [arxivTimesQuantum](https://github.com/arxivtimesquantum/arxivTimesQuantum/issues)
+- SONY [「Neural Network Libraries」](https://www.youtube.com/channel/UCOELxR-yS2EbjBxQ0hx4yBw): AI論文解説YouTubeチャンネル
+
+---
+**AIのコード解説** 
 
 - Qiita Tags 
     - [AI](https://qiita.com/tags/ai)
@@ -44,7 +52,14 @@
 - AXROSS 
     - [プログラムレシピ](https://axross-recipe.com/recipes)
 ---
-**AIの著作権など法律関係**
+**AIニュース**
+
+- [AI-SCHOLAR](https://ai-scholar.tech/)
+- [Ledge.AI](https://ledge.ai/theme/news/)
+- [AI-Timely](https://ai-scholar.tech/ai-timely)
+
+---
+**AIの法律関係**
 - 日本弁理士会月刊パテント 久我貴洋著 [AI創作物の著作権の保護](https://system.jpaa.or.jp/patent/viewPdf/3306) 2019/4/26
 - 文化庁 [著作権法の一部を改正する法律の概要　説明資料](https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/bunkakai/51/pdf/r1406118_08.pdf) 2018/6/8
 - ABEJA [機械学習エンジニア弁護士が解説するAIと権利の話](https://qiita.com/kp_shiba/items/ac6e0987ed826877899f) 2021/1/17
