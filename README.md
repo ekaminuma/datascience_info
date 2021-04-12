@@ -30,11 +30,14 @@
 
 **データサイエンス・AIのオンライン講座/学習サイト**
 
+- [Cousera](https://ja.coursera.org/)
+- [AIacademy](https://aiacademy.jp/)
+- [Kikagaku](https://www.kikagaku.ai/)
 - 日本ディープラーニング協会 AI講座 [「AI for Everyone」](https://www.jdla.org/promotion/)　
     - 2021/5/6～　受講料無料, 6時間
     - Andrew Ng博士率いるDeepLearning.AIが提供するAI講座がベース。東大松尾博士が監修。
-
-
+- [AIの社会実装を進めるための技術的ポイント](https://www.youtube.com/watch?v=zB0yk7lWN2Y&t=3150s)
+- [NeurIPS2020技術報告会](https://www.youtube.com/watch?v=Q9al2FtNl5g&list=PLfEVSeetCBKM29Ww960OoUIk4pQxni4pv)
 ---
 **AI論文フォロー**
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)
@@ -51,6 +54,14 @@
     - [Deep Learning](https://qiita.com/tags/deeplearning)
 - AXROSS 
     - [プログラムレシピ](https://axross-recipe.com/recipes)
+- Github codes
+    - [ゼロから作るDeep Learning](https://github.com/oreilly-japan/deep-learning-from-scratch)  
+    - [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 2nd edition](https://github.com/ageron/handson-ml2)
+    - [Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning)
+    - [Deep Learning Specialization on Coursera](https://github.com/Kulbear/deep-learning-coursera)
+    - [FastAI](https://github.com/fastai/fastai)
+    - [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+    - [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning)
 ---
 **AIニュース**
 
